@@ -24,10 +24,10 @@ Eu construo, com IA, o sistema que substitui o trabalho repetitivo da sua empres
 
 ### Meu cérebro de IA, aberto
 
-**[cerebro-ia](https://github.com/rafabragatrause-cmd/cerebro-ia)** — as skills, regras e prompts que fazem o Claude e o Codex trabalharem como um time disciplinado. Cole uma linha no seu agente e ele instala a base:
+**[toolkit-braga](https://github.com/rafabragatrause-cmd/toolkit-braga)** — as skills, regras e prompts que fazem o Claude e o Codex trabalharem como um time disciplinado. Cole uma linha no seu agente e ele instala a base:
 
 ```text
-Leia https://raw.githubusercontent.com/rafabragatrause-cmd/cerebro-ia/main/HARNESS.md e execute a seção "Prompt" neste computador e neste projeto.
+Leia https://raw.githubusercontent.com/rafabragatrause-cmd/toolkit-braga/main/HARNESS.md e execute a seção "Prompt" neste computador e neste projeto.
 ```
 
 Pensar (`grill-me`) · planejar (`superpowers`) · construir (`ponytail`, `tdd`) · revisar (`code-review` + Codex) · provar · lembrar (`learnings`, `handoff`).
